@@ -1,10 +1,10 @@
 ## GitHub Profile Achievements
 | Badge | Unlock |
 |:------|:--------------|
-| 🧠 **Galaxy Brain** | Get your answers marked as **Accepted** in Q&A Discussions. |
-| 🦈 **Pull Shark** | Have your Pull Requests merged into the default branch. |
-| 🤝 **Pair Extraordinaire** | Merge a Pull Request containing co-authored commits. |
-| ⭐ **Starstruck** | Receive stars on your public repositories. |
+| **Galaxy Brain** | Get your answers marked as **Accepted** in Q&A Discussions. |
+| **Pull Shark** | Have your Pull Requests merged into the default branch. |
+| **Pair Extraordinaire** | Merge a Pull Request containing co-authored commits. |
+| **Starstruck** | Receive stars on your public repositories. |
 | | |
 | ☑️ **Quickdraw** | Open and close an Issue or Pull Request within **5 minutes**. |
 | ☑️ **YOLO** | Merge a Pull Request without any reviews. |
@@ -15,12 +15,12 @@
 ## Tiered Achievements
 | Achievement | Base | Bronze | Silver | Gold |
 |:------------|----:|-------:|-------:|-----:|
-| 🧠 Galaxy Brain | 2 | 8 | 16 | 32 Accepted Answers |
-| 🦈 Pull Shark | 2 | 16 | 128 | 1024 Merged PRs |
-| 🤝 Pair Extraordinaire | 1 | 10 | 24 | 48 Co-authored Merged PRs |
-| ⭐ Starstruck | 16 | 128 | 512 | 4096 Repository Stars |
+| Galaxy Brain | 2 | 8 | 16 | 32 Accepted Answers |
+| Pull Shark | 2 | 16 | 128 | 1024 Merged PRs |
+| Pair Extraordinaire | 1 | 10 | 24 | 48 Co-authored Merged PRs |
+| Starstruck | 16 | 128 | 512 | 4096 Repository Stars |
 ---
-## 🎯 Progress Checklist
+## 🎯
 - [ ] Galaxy Brain
 - [ ] Pull Shark
 - [ ] Pair Extraordinaire
