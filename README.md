@@ -1,4 +1,4 @@
-## GitHub Profile Achievements
+
 | Badge | Unlock |
 |:------|:--------------|
 | **Galaxy Brain** | Get your answers marked as **Accepted** in Q&A Discussions. |
@@ -12,7 +12,6 @@
 | ❌ **Arctic Code Vault Contributor** *(Retired)* | Contributed code archived in the 2020 GitHub Arctic Code Vault. |
 | ❌ **Mars 2020 Helicopter Contributor** *(Retired)* | Contributed to the Ingenuity Mars Helicopter software. |
 ---
-## Tiered Achievements
 | Achievement | Base | Bronze | Silver | Gold |
 |:------------|----:|-------:|-------:|-----:|
 | Galaxy Brain | 2 | 8 | 16 | 32 Accepted Answers |
