@@ -1,4 +1,5 @@
 BADGES -
+
 | Badge | Unlock |
 |:------|:--------------|
 | **Galaxy Brain** | Get your answers marked as **Accepted** in Q&A Discussions. |
